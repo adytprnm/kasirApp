@@ -1,0 +1,7 @@
+admin
+username:admin 
+pw:admin
+
+petugas
+username:kasir1
+pw:kurami
